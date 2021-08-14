@@ -46,6 +46,7 @@ store.dispatch({ type: 'INC' });
 store.dispatch({ type: 'INC' });
 store.dispatch({ type: 'INC' });
 ```
+
 ### Example
 ```html
 <!--index.html-->
@@ -89,3 +90,5 @@ store.dispatch({ type: 'INC' });
 store.dispatch({ type: 'INC' });
 store.dispatch({ type: 'INC' });
 ```
+
+<img src="images/scheme.gif" alt="scheme">
