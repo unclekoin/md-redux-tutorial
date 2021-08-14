@@ -1,5 +1,5 @@
-# Redux
-### A Predictable State Container for JS Apps
+# [Redux](https://redux.js.org/)
+<img src="./images/banner.png" alt="banner"/> 
 
 ## Reducer
 ```js
